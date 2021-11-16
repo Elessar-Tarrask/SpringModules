@@ -1,0 +1,352 @@
+{
+    "head": {
+        "requestId": "1",
+        "sessionId": "1",
+        "processId": "1",
+        "params": {
+            "clientType": "CBS",
+            "interfaceVersion": "1.0.19",
+            "language": "ru",
+            "operationalDate": null,
+            "clientTimeout": 50000,
+            "token": {
+                "value": "GExPR0lOX1BBU1NXT1JEX0NMRUFSVEVYVMEiuVOTT+qpNl0PiMA8WwN2rHaHeSmySSitj85KQMso",
+                "type": "ACCESS"
+            },
+            "connectParameter": []
+        },
+        "startRow": null,
+        "maxRows": null
+    },
+    "client": {
+        "colvirReferenceId": null,
+        "code": "000980.00056066",
+        "department": {
+            "code": "980",
+            "name": "Филиал Семей Акционерного общества \"First Heartland Jusan Bank\"",
+            "description": null
+        },
+        "type": "CORPORATE",
+        "name": "ТОО \"МЕДиК плюс\"",
+        "longName": "Товарищество с ограниченной ответственностью \"МЕДиК плюс\"",
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "previousName": null,
+        "birthDate": 1519840800000,
+        "taxIdentificationNumber": {
+            "code": "131040005425",
+            "name": null,
+            "description": null
+        },
+        "rolesGroup": null,
+        "roleMask": "CLI=1",
+        "state": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "status": {
+            "code": "1",
+            "name": "Действующий",
+            "description": null
+        },
+        "typeExt": {
+            "code": "0",
+            "name": "Юридические лица",
+            "description": null
+        },
+        "kod": {
+            "code": "17",
+            "name": "Признак резидента. Негосударственные нефинансовые",
+            "description": null
+        },
+        "isResident": true,
+        "sex": null,
+        "fromDate": null,
+        "dreg": 1519840800000,
+        "autCode": {
+            "code": "980.000/КБ/ТТ",
+            "name": "Текущие счета ю/л в тенге",
+            "description": null
+        },
+        "sectorId": {
+            "code": "7",
+            "name": "ННК",
+            "description": null
+        },
+        "okpoCode": null,
+        "country": {
+            "code": "KZ",
+            "name": null,
+            "description": null
+        },
+        "citizenCountry": {
+            "code": "KZ",
+            "name": null,
+            "description": null
+        },
+        "identDocuments": [],
+        "addresses": [],
+        "detailedAddresses": [
+            {
+                "nord": 1,
+                "type": {
+                    "code": "005",
+                    "name": null,
+                    "description": null
+                },
+                "country": "Казахстан",
+                "region": {
+                    "code": null,
+                    "name": null,
+                    "description": null,
+                    "value": null,
+                    "isCityRegion": null
+                },
+                "district": {
+                    "code": null,
+                    "name": null,
+                    "description": null,
+                    "value": null
+                },
+                "city": {
+                    "code": "02",
+                    "name": "СЕМЕЙ",
+                    "description": null,
+                    "value": 2
+                },
+                "cityPart": {
+                    "code": null,
+                    "name": null,
+                    "description": null,
+                    "value": null
+                },
+                "cityZone": {
+                    "code": null,
+                    "name": null,
+                    "description": null,
+                    "value": null
+                },
+                "street": {
+                    "code": "06",
+                    "name": "ПУШКИНА",
+                    "description": null,
+                    "value": 6
+                },
+                "houseNumber": {
+                    "code": null,
+                    "name": null,
+                    "description": null,
+                    "value": null
+                },
+                "flat": {
+                    "code": null,
+                    "name": null,
+                    "description": null,
+                    "value": null
+                },
+                "bodyNumber": null,
+                "buildNumber": null,
+                "zip": "071400",
+                "kind": null,
+                "okato": "632810000",
+                "addressString": "071400, КАЗАХСТАН, ВКО обл., г. СЕМЕЙ, ул. ПУШКИНА, д. 110-"
+            }
+        ],
+        "emails": [],
+        "phones": [],
+        "contactData": [],
+        "addInfoList": [
+            {
+                "code": "FAMSTATNM",
+                "name": null,
+                "description": null,
+                "value": "Иное",
+                "fromDate": null
+            },
+            {
+                "code": "SHI_LONGNAME",
+                "name": null,
+                "description": null,
+                "value": "Здравоохранение и социальные услуги",
+                "fromDate": null
+            },
+            {
+                "code": "SHI_CODE",
+                "name": null,
+                "description": null,
+                "value": "85",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_SHI_CODE",
+                "name": null,
+                "description": null,
+                "value": "85",
+                "fromDate": null
+            },
+            {
+                "code": "FATCAFL",
+                "name": null,
+                "description": null,
+                "value": "0",
+                "fromDate": null
+            },
+            {
+                "code": "OPFORM",
+                "name": null,
+                "description": null,
+                "value": "20",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_ANKDT",
+                "name": null,
+                "description": null,
+                "value": "10.11.2021",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_FIZJURAGREE",
+                "name": null,
+                "description": null,
+                "value": "0",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_SMS_BCTYPE",
+                "name": null,
+                "description": null,
+                "value": "0",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_UL_SEGMENT",
+                "name": null,
+                "description": null,
+                "value": "MKB",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_UL_SEGM_NAME",
+                "name": null,
+                "description": null,
+                "value": "МИКРО БИЗНЕС",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_UL_SLS_VAL",
+                "name": null,
+                "description": null,
+                "value": "1000.00",
+                "fromDate": null
+            },
+            {
+                "code": "JURTYPE",
+                "name": null,
+                "description": null,
+                "value": "0",
+                "fromDate": null
+            },
+            {
+                "code": "PASSTYP_NAME",
+                "name": null,
+                "description": null,
+                "value": "0",
+                "fromDate": null
+            },
+            {
+                "code": "JURTYPE_NM",
+                "name": null,
+                "description": null,
+                "value": "0",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_BISNES_CLI",
+                "name": null,
+                "description": null,
+                "value": "Департамент малого и среднего бизнеса",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_LLONGNAME",
+                "name": null,
+                "description": null,
+                "value": "TOVARIqESTVO S OGRANIcENNOi OTVETSTVENNOSTXu \"MEDIK PLuS\"",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_SEGM_PREDPRI",
+                "name": null,
+                "description": null,
+                "value": "Субъект малого предпринимательства",
+                "fromDate": null
+            },
+            {
+                "code": "PRIVFORM",
+                "name": null,
+                "description": null,
+                "value": "15",
+                "fromDate": null
+            },
+            {
+                "code": "Z_PRIVFORM",
+                "name": null,
+                "description": null,
+                "value": "15",
+                "fromDate": null
+            },
+            {
+                "code": "REGINITDATE",
+                "name": null,
+                "description": null,
+                "value": "01.01.2020",
+                "fromDate": null
+            },
+            {
+                "code": "Z_011_REGINITDATE",
+                "name": null,
+                "description": null,
+                "value": "01.01.2020",
+                "fromDate": null
+            },
+            {
+                "code": "WWWADR",
+                "name": null,
+                "description": null,
+                "value": "*",
+                "fromDate": null
+            },
+            {
+                "code": "SWIFT_NAME",
+                "name": null,
+                "description": null,
+                "value": "*",
+                "fromDate": null
+            }
+        ],
+        "clientRiskValuesList": null,
+        "affiliationFl": false,
+        "shiId": null,
+        "tariff": {
+            "code": "11-04",
+            "name": "ЛТГ Бизнес 3",
+            "description": null
+        },
+        "codeWord": null,
+        "codeWordDate": null,
+        "codeWordQuestion": null,
+        "clientClassifierList": [],
+        "latinFirstName": null,
+        "latinMiddleName": null,
+        "latinLastName": null,
+        "deceaseDate": null,
+        "linkedCards": [],
+        "clientBankRelationLinks": []
+    },
+    "withoutAdditionalCheck": 0,
+    "actionForCheckFail": null,
+    "openClientCard": 0
+}
